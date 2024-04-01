@@ -10,4 +10,11 @@ Resource Link: https://www.freecodecamp.org/news/shell-scripting-crash-course-ho
 	touch hello_world.sh
 7. Find the path to your bash shell.
 	which bash
-8. 
+8. How to define variables
+
+	#!/bin/bash
+	# A simple variable example
+	greeting=Hello
+	name=Tux
+	echo $greeting $name
+9. 
