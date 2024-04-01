@@ -1,3 +1,13 @@
 Resource Link: https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/ 
 
 1. Shebang: #!/bin/bash
+2. echo <argu>
+3. cat <argu>
+4. executable file: 
+	chmod u+x <argu>
+5. Working Directory: pwd
+6. Create a file named hello_world.sh
+	touch hello_world.sh
+7. Find the path to your bash shell.
+	which bash
+8. 
