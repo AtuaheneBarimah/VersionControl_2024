@@ -17,4 +17,17 @@ Resource Link: https://www.freecodecamp.org/news/shell-scripting-crash-course-ho
 	greeting=Hello
 	name=Tux
 	echo $greeting $name
-9. 
+
+9. Arithmetic Expressions
+	#!/bin/bash
+	var=$((3+9))
+	echo $var
+
+10. How to read user input
+	#!/bin/bash
+	echo "Enter a number"
+	read a
+	echo "Enter a number"
+	read b
+	var=$((a+b))
+	echo $var
